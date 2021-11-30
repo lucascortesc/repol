@@ -1,0 +1,13 @@
+SP1-37
+
+Clonando um repositório remoto
+Crie um repositório novo no github;
+Abra um terminal/Git Bash em sua máquina local;
+Crie um diretório novo e clone o repositório recém-criado nele. Vamos chamá-lo repo1;
+Confira o conteúdo do repositório atual;
+Crie um arquivo e adicione conteúdo de texto a ele;
+Confira o estado do repositório git;
+Adicione o arquivo criado para ser incluído na revisão de alterações;
+Faça o registro desta revisão de alterações;
+Confira o estado do repositório na sua máquina local;
+Confira o estado do repositório no github;
