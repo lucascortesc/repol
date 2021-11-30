@@ -1,24 +1,14 @@
 SP1-37
 
-Clonando um repositório remoto
-Crie um repositório novo no github;
-Abra um terminal/Git Bash em sua máquina local;
-Crie um diretório novo e clone o repositório recém-criado nele. Vamos chamá-lo repo1;
-Confira o conteúdo do repositório atual;
-Crie um arquivo e adicione conteúdo de texto a ele;
-Confira o estado do repositório git;
-Adicione o arquivo criado para ser incluído na revisão de alterações;
-Faça o registro desta revisão de alterações;
-Confira o estado do repositório na sua máquina local;
-Confira o estado do repositório no github;
-
-Enviando trabalho para um remoto e sincronizando
-Confira o estado do repositório na sua máquina local;
-Confira o estado do repositório no github;
-Envie seu trabalho para o repositório remoto;
-Confira o estado do repositório na sua máquina local;
-Confira o estado do repositório no github;
-Clone novamente o repositório do github, mas desta vez em um diretório diferente e vazio (imagine que este diretório novo é outra máquina, seja sua ou de algum colega de trabalho com acesso a este mesmo repositório remoto). Vamos chamá-lo repo2;
-Volte ao repo1, edite o arquivo de texto, faça o commit e enviei seu trabalho ao repositório remoto;
-Vá ao repo2, confira o estado do repositório e o histórico;
-Baixe as alterações do repositório remoto;
+Trabalhando com branches
+Vá ao repo1, confira em qual branch você está, qual o estado dela e do diretório;
+Crie uma branch chamada sprint1;
+Adicione um novo arquivo e edite o arquivo existente;
+Confira o estado do diretório, e do repositório;
+Adicione e commit as alterações feitas;
+Confira o estado do diretório, e do repositório;
+Volte à branch que você estava antes;
+Confira o estado do diretório, e do repositório;
+Volta à branch sprint1;
+Confira o estado do diretório, e do repositório
+Envie a branch sprint1 ao repositório remoto
